@@ -1,3 +1,5 @@
+//zadanie S1 - parkovisko pre 2 auta
+
 //pseudocode
 // vychadzame z S0(0,0,0,1); S1(1,2,0,1); S2(1,2,2,3); S3(3,3,2,3)
 //vstup od uzivatela
